@@ -15,6 +15,7 @@ const I18nBoard = () => {
       <div>
         <button onClick={() => i18n.changeLanguage('en')}>English</button>
         <button onClick={() => i18n.changeLanguage('ru')}>Русский</button>
+        <button onClick={() => i18n.changeLanguage('ptbr')}>Português</button>
       </div>
       <Board data={smallData} t={t} editable canAddLanes draggable />
     </div>
