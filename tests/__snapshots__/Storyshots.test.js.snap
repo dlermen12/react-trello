@@ -8246,7 +8246,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8265,7 +8265,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8295,7 +8295,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -8329,7 +8329,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8348,7 +8348,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8378,7 +8378,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -8412,7 +8412,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8431,7 +8431,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8461,7 +8461,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -8495,7 +8495,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8514,7 +8514,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8544,7 +8544,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -8555,7 +8555,7 @@ Array [
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </button>
             </div>
           </section>
@@ -8623,7 +8623,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8642,7 +8642,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8672,7 +8672,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -8683,7 +8683,7 @@ Array [
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </button>
             </div>
           </section>
@@ -8727,7 +8727,7 @@ Array [
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </button>
             </div>
           </section>
@@ -8795,7 +8795,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8814,7 +8814,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8844,7 +8844,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -8878,7 +8878,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8897,7 +8897,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -8927,7 +8927,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -8938,7 +8938,7 @@ Array [
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </button>
             </div>
           </section>
@@ -9006,7 +9006,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -9025,7 +9025,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -9055,7 +9055,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -9066,7 +9066,7 @@ Array [
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </button>
             </div>
           </section>
@@ -9134,7 +9134,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -9153,7 +9153,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -9183,7 +9183,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -9194,7 +9194,7 @@ Array [
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </button>
             </div>
           </section>
@@ -9262,7 +9262,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -9281,7 +9281,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -9311,7 +9311,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -9322,7 +9322,7 @@ Array [
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </button>
             </div>
           </section>
@@ -9390,7 +9390,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -9409,7 +9409,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -9439,7 +9439,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -9450,7 +9450,7 @@ Array [
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </button>
             </div>
           </section>
@@ -13125,7 +13125,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13144,7 +13144,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13174,7 +13174,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -13186,7 +13186,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -13231,7 +13231,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -13299,7 +13299,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13318,7 +13318,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13348,7 +13348,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -13382,7 +13382,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13401,7 +13401,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13431,7 +13431,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -13443,7 +13443,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -13511,7 +13511,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13530,7 +13530,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13560,7 +13560,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -13572,7 +13572,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -13640,7 +13640,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13659,7 +13659,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13689,7 +13689,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -13701,7 +13701,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -13769,7 +13769,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13788,7 +13788,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13818,7 +13818,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -13830,7 +13830,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -13898,7 +13898,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13917,7 +13917,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -13947,7 +13947,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -13959,7 +13959,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -14556,7 +14556,7 @@ Array [
                     <span
                       className="c10"
                     >
-                      Lane actions
+                      Ações da coluna
                     </span>
                     <div
                       className="c11"
@@ -14575,7 +14575,7 @@ Array [
                       className="c14"
                       onClick={[Function]}
                     >
-                      Delete lane
+                      Deletar coluna
                     </div>
                   </div>
                 </div>
@@ -14612,7 +14612,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -14631,7 +14631,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -14661,7 +14661,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -14695,7 +14695,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -14714,7 +14714,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -14744,7 +14744,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -14778,7 +14778,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -14797,7 +14797,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -14827,7 +14827,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -14861,7 +14861,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -14880,7 +14880,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -14910,7 +14910,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -14922,7 +14922,7 @@ Array [
                 className="c24"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -14936,7 +14936,7 @@ Array [
             className="c26"
             onClick={[Function]}
           >
-            + Add another lane
+            + Adicionar outra coluna
           </button>
         </section>
       </div>
@@ -15497,7 +15497,7 @@ Array [
                     <span
                       className="c10"
                     >
-                      Lane actions
+                      Ações da coluna
                     </span>
                     <div
                       className="c11"
@@ -15516,7 +15516,7 @@ Array [
                       className="c14"
                       onClick={[Function]}
                     >
-                      Delete lane
+                      Deletar coluna
                     </div>
                   </div>
                 </div>
@@ -15553,7 +15553,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -15572,7 +15572,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -15602,7 +15602,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -15636,7 +15636,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -15655,7 +15655,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -15685,7 +15685,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -15719,7 +15719,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -15738,7 +15738,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -15768,7 +15768,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -15802,7 +15802,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -15821,7 +15821,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -15851,7 +15851,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -15863,7 +15863,7 @@ Array [
                 className="c24"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -15873,7 +15873,7 @@ Array [
         <button
           onClick={[Function]}
         >
-          + Add another lane
+          + Adicionar outra coluna
         </button>
       </div>
     </div>
@@ -16589,7 +16589,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -16608,7 +16608,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -16638,7 +16638,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -16650,7 +16650,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -16695,7 +16695,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -16763,7 +16763,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -16782,7 +16782,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -16812,7 +16812,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -16846,7 +16846,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -16865,7 +16865,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -16895,7 +16895,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -16907,7 +16907,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -16975,7 +16975,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -16994,7 +16994,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -17024,7 +17024,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -17036,7 +17036,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -17104,7 +17104,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -17123,7 +17123,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -17153,7 +17153,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -17165,7 +17165,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -17233,7 +17233,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -17252,7 +17252,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -17282,7 +17282,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -17294,7 +17294,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -17362,7 +17362,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -17381,7 +17381,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -17411,7 +17411,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -17423,7 +17423,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -21660,7 +21660,7 @@ Array [
                     <span
                       className="c10"
                     >
-                      Lane actions
+                      Ações da coluna
                     </span>
                     <div
                       className="c11"
@@ -21679,7 +21679,7 @@ Array [
                       className="c14"
                       onClick={[Function]}
                     >
-                      Delete lane
+                      Deletar coluna
                     </div>
                   </div>
                 </div>
@@ -21716,7 +21716,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -21735,7 +21735,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -21765,7 +21765,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -21799,7 +21799,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -21818,7 +21818,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -21848,7 +21848,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -21882,7 +21882,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -21901,7 +21901,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -21931,7 +21931,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -21965,7 +21965,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -21984,7 +21984,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -22014,7 +22014,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -22026,7 +22026,7 @@ Array [
                 className="c24"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -22040,7 +22040,7 @@ Array [
             className="c26"
             onClick={[Function]}
           >
-            + Add another lane
+            + Adicionar outra coluna
           </button>
         </section>
       </div>
@@ -22764,7 +22764,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="title"
+                            placeholder="título"
                             rows={1}
                             spellCheck="false"
                           />
@@ -22783,7 +22783,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="label"
+                            placeholder="rótulo"
                             rows={1}
                             spellCheck="false"
                           />
@@ -22813,7 +22813,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="description"
+                          placeholder="descrição"
                           rows={1}
                           spellCheck="false"
                         />
@@ -22825,7 +22825,7 @@ Array [
                   className="c15"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Clique para adicionar tarefa
                 </a>
               </div>
             </section>
@@ -22874,7 +22874,7 @@ Array [
                   className="c15"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Clique para adicionar tarefa
                 </a>
               </div>
             </section>
@@ -22946,7 +22946,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="title"
+                            placeholder="título"
                             rows={1}
                             spellCheck="false"
                           />
@@ -22965,7 +22965,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="label"
+                            placeholder="rótulo"
                             rows={1}
                             spellCheck="false"
                           />
@@ -22995,7 +22995,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="description"
+                          placeholder="descrição"
                           rows={1}
                           spellCheck="false"
                         />
@@ -23029,7 +23029,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="title"
+                            placeholder="título"
                             rows={1}
                             spellCheck="false"
                           />
@@ -23048,7 +23048,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="label"
+                            placeholder="rótulo"
                             rows={1}
                             spellCheck="false"
                           />
@@ -23078,7 +23078,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="description"
+                          placeholder="descrição"
                           rows={1}
                           spellCheck="false"
                         />
@@ -23090,7 +23090,7 @@ Array [
                   className="c15"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Clique para adicionar tarefa
                 </a>
               </div>
             </section>
@@ -23162,7 +23162,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="title"
+                            placeholder="título"
                             rows={1}
                             spellCheck="false"
                           />
@@ -23181,7 +23181,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="label"
+                            placeholder="rótulo"
                             rows={1}
                             spellCheck="false"
                           />
@@ -23211,7 +23211,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="description"
+                          placeholder="descrição"
                           rows={1}
                           spellCheck="false"
                         />
@@ -23223,7 +23223,7 @@ Array [
                   className="c15"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Clique para adicionar tarefa
                 </a>
               </div>
             </section>
@@ -23295,7 +23295,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="title"
+                            placeholder="título"
                             rows={1}
                             spellCheck="false"
                           />
@@ -23314,7 +23314,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="label"
+                            placeholder="rótulo"
                             rows={1}
                             spellCheck="false"
                           />
@@ -23344,7 +23344,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="description"
+                          placeholder="descrição"
                           rows={1}
                           spellCheck="false"
                         />
@@ -23356,7 +23356,7 @@ Array [
                   className="c15"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Clique para adicionar tarefa
                 </a>
               </div>
             </section>
@@ -23428,7 +23428,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="title"
+                            placeholder="título"
                             rows={1}
                             spellCheck="false"
                           />
@@ -23447,7 +23447,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="label"
+                            placeholder="rótulo"
                             rows={1}
                             spellCheck="false"
                           />
@@ -23477,7 +23477,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="description"
+                          placeholder="descrição"
                           rows={1}
                           spellCheck="false"
                         />
@@ -23489,7 +23489,7 @@ Array [
                   className="c15"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Clique para adicionar tarefa
                 </a>
               </div>
             </section>
@@ -23561,7 +23561,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="title"
+                            placeholder="título"
                             rows={1}
                             spellCheck="false"
                           />
@@ -23580,7 +23580,7 @@ Array [
                             onFocus={[Function]}
                             onKeyDown={[Function]}
                             onMouseDown={[Function]}
-                            placeholder="label"
+                            placeholder="rótulo"
                             rows={1}
                             spellCheck="false"
                           />
@@ -23610,7 +23610,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="description"
+                          placeholder="descrição"
                           rows={1}
                           spellCheck="false"
                         />
@@ -23622,7 +23622,7 @@ Array [
                   className="c15"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Clique para adicionar tarefa
                 </a>
               </div>
             </section>
@@ -24342,7 +24342,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -24361,7 +24361,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -24391,7 +24391,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -24403,7 +24403,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -24448,7 +24448,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -24516,7 +24516,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -24535,7 +24535,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -24565,7 +24565,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -24599,7 +24599,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -24618,7 +24618,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -24648,7 +24648,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -24660,7 +24660,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -24728,7 +24728,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -24747,7 +24747,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -24777,7 +24777,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -24789,7 +24789,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -24857,7 +24857,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -24876,7 +24876,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -24906,7 +24906,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -24918,7 +24918,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -24986,7 +24986,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -25005,7 +25005,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -25035,7 +25035,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -25047,7 +25047,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -25115,7 +25115,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -25134,7 +25134,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -25164,7 +25164,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -25176,7 +25176,7 @@ Array [
                 className="c15"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -25751,7 +25751,7 @@ Array [
                   onFocus={[Function]}
                   onKeyDown={[Function]}
                   onMouseDown={[Function]}
-                  placeholder="title"
+                  placeholder="título"
                   rows={1}
                   spellCheck="false"
                 />
@@ -25788,7 +25788,7 @@ Array [
                     <span
                       className="c11"
                     >
-                      Lane actions
+                      Ações da coluna
                     </span>
                     <div
                       className="c12"
@@ -25807,7 +25807,7 @@ Array [
                       className="c15"
                       onClick={[Function]}
                     >
-                      Delete lane
+                      Deletar coluna
                     </div>
                   </div>
                 </div>
@@ -25844,7 +25844,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -25863,7 +25863,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -25893,7 +25893,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -25927,7 +25927,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -25946,7 +25946,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -25976,7 +25976,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -26010,7 +26010,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -26029,7 +26029,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -26059,7 +26059,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -26093,7 +26093,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="title"
+                          placeholder="título"
                           rows={1}
                           spellCheck="false"
                         />
@@ -26112,7 +26112,7 @@ Array [
                           onFocus={[Function]}
                           onKeyDown={[Function]}
                           onMouseDown={[Function]}
-                          placeholder="label"
+                          placeholder="rótulo"
                           rows={1}
                           spellCheck="false"
                         />
@@ -26142,7 +26142,7 @@ Array [
                         onFocus={[Function]}
                         onKeyDown={[Function]}
                         onMouseDown={[Function]}
-                        placeholder="description"
+                        placeholder="descrição"
                         rows={1}
                         spellCheck="false"
                       />
@@ -26154,7 +26154,7 @@ Array [
                 className="c24"
                 onClick={[Function]}
               >
-                Click to add card
+                Clique para adicionar tarefa
               </a>
             </div>
           </section>
@@ -26168,7 +26168,7 @@ Array [
             className="c26"
             onClick={[Function]}
           >
-            + Add another lane
+            + Adicionar outra coluna
           </button>
         </section>
       </div>
@@ -28614,6 +28614,11 @@ Array [
           onClick={[Function]}
         >
           Русский
+        </button>
+        <button
+          onClick={[Function]}
+        >
+          Português
         </button>
       </div>
       <div
